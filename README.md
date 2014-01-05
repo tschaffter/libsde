@@ -3,4 +3,4 @@ libSDE
 
 libSDE is an open-source Java library for simulating systems of stochastic differential equations (SDEs).
 
-Documentation and examples are available on http://tschaffter.ch/projects/libsde.
+More detailed information is available on http://tschaffter.ch/projects/libsde.

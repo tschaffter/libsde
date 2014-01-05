@@ -1,7 +1,0 @@
-TODO
-====
-
-[-] Implement Runge-Kutta strong order >= 1.5 with adaptive step-size
-[-] Implement test for convergence
-[-] Plot log-log plots of RMS errors against step-size, incorporating confidence intervals
-[-] Write unit tests
