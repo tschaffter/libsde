@@ -1,7 +1,7 @@
 libSDE
 ======
 
-libSDE is an open-source Java library for simulating systems of stochastic differential equations (SDEs). SDEs are used to model diverse phenomena such as white noise and Brownian motion (also called Wiener process). Application domains include **financial mathematics and economics, signal processing, chemistry, quantum mechanics, meteorology and music**.
+libSDE is an open-source Java library for **simulating systems of stochastic differential equations (SDEs)**. SDEs are used to model diverse phenomena such as white noise and Brownian motion (also called Wiener process). Application domains include **financial mathematics and economics, signal processing, chemistry, quantum mechanics, meteorology and music**.
 
 libSDE implements:
 
