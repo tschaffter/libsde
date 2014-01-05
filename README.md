@@ -5,8 +5,8 @@ libSDE is an open-source Java library for simulating systems of stochastic diffe
 
 libSDE implements:
 
-* 'It&ocirc; and Stratonovich schemes'
-* 'Euler-Maruyama, Euler-Heun, derivative-free Milstein and Stochastic Runge-Kutta (SRK15) solvers'
+* It&ocirc; and Stratonovich schemes
+* Euler-Maruyama, Euler-Heun, derivative-free Milstein and Stochastic Runge-Kutta (SRK15) solvers
 
 A brief introduction to the simulation of systems of SDEs is given in [Numerical Integration of SDE: A Short Tutorial](http://tschaffter.ch/projects/libsde/cite.php).
 
